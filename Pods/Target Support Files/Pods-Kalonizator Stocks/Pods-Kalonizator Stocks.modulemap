@@ -1,0 +1,6 @@
+framework module Pods_Kalonizator_Stocks {
+  umbrella header "Pods-Kalonizator Stocks-umbrella.h"
+
+  export *
+  module * { export * }
+}
