@@ -1,0 +1,12 @@
+
+# xcode noise
+DerivedData
+xcuserdata
+project.xcworkspace
+build/*
+
+# osx noise
+.DS_Store
+
+# CocoaPods
+Pods/

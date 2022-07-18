@@ -21,6 +21,7 @@ class StockCell: UITableViewCell {
   override func prepareForReuse() {
     super.prepareForReuse()
     titleLabel.text?.removeAll()
+    priceLabel.text?.removeAll()
     oldPrice = nil
   }
 
